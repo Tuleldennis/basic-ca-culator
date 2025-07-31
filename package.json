@@ -1,0 +1,17 @@
+{
+  "name": "universal-code-preview",
+  "version": "1.0.0",
+  "description": "Universal code preview application supporting multiple programming languages",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p 3000 -c-1",
+    "dev": "http-server -p 3000 -c-1"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "devDependencies": {},
+  "keywords": ["code", "preview", "editor", "multiple-languages"],
+  "author": "Code Preview App",
+  "license": "MIT"
+}
